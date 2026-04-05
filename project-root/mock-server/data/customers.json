@@ -1,0 +1,202 @@
+[
+  {
+    "customer_id": "ID001",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato01@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1000000.5
+  },
+  {
+    "customer_id": "ID002",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato02@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1200000.5
+  },
+  {
+    "customer_id": "ID003",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato03@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1300000.5
+  },
+  {
+    "customer_id": "ID004",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato04@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1400000.5
+  },
+  {
+    "customer_id": "ID005",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato05@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1500000.5
+  },
+  {
+    "customer_id": "ID006",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato06@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1600000.5
+  },
+  {
+    "customer_id": "ID007",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato07@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1700000.5
+  },
+  {
+    "customer_id": "ID008",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato08@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1800000.5
+  },
+  {
+    "customer_id": "ID009",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato09@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 1900000.5
+  },
+  {
+    "customer_id": "ID010",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato10@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2000000.5
+  },
+  {
+    "customer_id": "ID011",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato11@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2100000
+  },
+  {
+    "customer_id": "ID012",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato12@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2200000
+  },
+  {
+    "customer_id": "ID013",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato13@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2300000.5
+  },
+  {
+    "customer_id": "ID014",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato14@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2400000.5
+  },
+  {
+    "customer_id": "ID015",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato15@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2500000.5
+  },
+  {
+    "customer_id": "ID016",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato16@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2600000.5
+  },
+  {
+    "customer_id": "ID017",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato17@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2700000.5
+  },
+  {
+    "customer_id": "ID018",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato18@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2800000.5
+  },
+  {
+    "customer_id": "ID019",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato19@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 2900000.5
+  },
+  {
+    "customer_id": "ID020",
+    "first_name": "Rahmat",
+    "last_name": "Hayato",
+    "email": "r.hayato20@gmail.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1980-09-26",
+    "account_balance": 3000000.5
+  }
+]
