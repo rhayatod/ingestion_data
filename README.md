@@ -4,8 +4,8 @@
 
 This project demonstrates a simple data pipeline using:
 
-- **Flask** → Mock API serving customer data from JSON
-- **FastAPI** → Data ingestion & API service
+- **Flask** → Mock API serving customer data from JSON (Mock Server)
+- **FastAPI** → Data ingestion & API service (Pipeline Service)
 - **PostgreSQL** → Database storage
 - **Docker Compose** → Service orchestration
 
