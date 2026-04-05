@@ -2,6 +2,9 @@ from flask import Flask, jsonify, request
 
 import os
 import json
+import logging
+
+logging.basicConfig(level=logging.INFO)
 
 app = Flask(__name__)
 
@@ -20,6 +23,7 @@ def health_check():
 
 @app.route("/api/customers")
 def get_customers():
+    app.logger.info("Fetching customers list")
     data = load_from_file()
 
     page = int(request.args.get("page", 1))
