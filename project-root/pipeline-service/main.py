@@ -44,6 +44,9 @@ def get_customers(page: int = 1, limit: int = 10, db: Session = Depends(get_db))
     total = query.count()
     results = query.offset((page - 1) * limit).limit(limit).all()
 
+    if total == 0:
+        logger.error("No records found in DB")
+
     return {
         "data": [r.__dict__ for r in results],
         "total": total,
